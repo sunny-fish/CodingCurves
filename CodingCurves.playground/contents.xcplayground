@@ -3,5 +3,6 @@
     <pages>
         <page name='Intro'/>
         <page name='Trig Curves'/>
+        <page name='Arcs, Circles, Ellipses'/>
     </pages>
 </playground>
